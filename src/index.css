@@ -101,6 +101,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  display: none;
 }
 
 .form-control-check label {

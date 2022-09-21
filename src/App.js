@@ -4,8 +4,8 @@ import AddTask from "./components/AddTask";
 import { useState, useEffect } from "react";
 import React from "react";
 
-// to run the mock json database: npm run server 
 // to run the react dev server: npm start 
+// to run the mock json database: npm run server 
 
 function App() {
 
